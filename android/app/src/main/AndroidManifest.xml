@@ -27,7 +27,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCqc_BjdaW7elgxSZmvpK4-h0MjYzjc3Sw"/>
+            android:value=""/>
 
         <!-- MainActivity должен быть FlutterFragmentActivity -->
         <activity
