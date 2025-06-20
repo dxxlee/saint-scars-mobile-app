@@ -1,0 +1,30 @@
+[
+  {
+    "model": "shop.product",
+    "pk": 1,
+    "fields": {
+      "name": "Elegant Shirt",
+      "description": "A classic, tailored shirt perfect for formal occasions.",
+      "price": "29.50",
+      "discounted_price": "24.99",
+      "image_url": "assets/images/shirt.jpg",
+      "category": "men",
+      "available_sizes": "S,M,L,XL",
+      "available_stores": "Main Store,City Branch,Online"
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 2,
+    "fields": {
+      "name": "Trendy T-Shirt",
+      "description": "Comfortable and stylish, ideal for everyday casual wear.",
+      "price": "15.49",
+      "discounted_price": null,
+      "image_url": "assets/images/mi-image.jpg",
+      "category": "men",
+      "available_sizes": "M,L",
+      "available_stores": "Downtown Store,Online"
+    }
+  }
+]

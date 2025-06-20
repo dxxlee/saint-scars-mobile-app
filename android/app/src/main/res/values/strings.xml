@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Уже существующие -->
+    <string name="facebook_app_id" translatable="false">594363182935006</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb60671d24bce15ae55a46872f1cdd9687</string>
+
+    <!-- Добавьте это: -->
+    <string name="app_name" translatable="false">Clothing Store</string>
+
+</resources>

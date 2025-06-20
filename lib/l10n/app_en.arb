@@ -1,0 +1,163 @@
+{
+  "@@locale": "en",
+  "appTitle": "Saints & Scars",
+  "drawerHeader": "Fashion Hub",
+  "navHome": "Home",
+  "navClothes": "Clothes",
+  "navCart": "Cart",
+  "navOrders": "Orders",
+  "navAccount": "Account",
+  "navWishlist": "Wishlist",
+  "navMap": "Map",
+  "navCheckout": "Checkout",
+  "navSettings": "Settings",
+
+  "productDetailSelectSize":      "Select Size",
+  "productDetailSelectStore":     "Select Store",
+  "productDetailQuantity":        "Quantity",
+  "productDetailAddToCart":       "Add to Cart",
+  "productDetailAddedToCart":     "Added to Cart",
+
+  "language": "Language",
+  "languageEnglish": "English",
+  "languageRussian": "Русский",
+  "languageKazakh": "Қазақша",
+  "enabled": "Enabled",
+  "disabled": "Disabled",
+  "lightTheme": "Light Theme",
+  "accentColor": "Accent Color",
+  "settings": "Settings",
+
+  "homeCategories": "Categories",
+  "homeBestSellers": "Best Sellers",
+  "homeReviews": "Reviews",
+
+  "searchHint": "Search products...",
+  "sortBy": "Sort by:",
+  "sortNameAsc": "Name ↑",
+  "sortNameDesc": "Name ↓",
+  "sortPriceAsc": "Price ↑",
+  "sortPriceDesc": "Price ↓",
+  "noProductsFound": "No products found",
+
+  "errorPrefix": "Error:",
+
+  "categoryAll": "All",
+  "categoryMens": "Mens",
+  "categoryWomens": "Womens",
+  "categoryShoes": "Shoes",
+  "categoryPerfumes": "Perfumes",
+
+  "add": "Add",
+  "addToCart": "Add to Cart",
+  "addedToCartSnack": "{name} added to cart",
+
+  "yourCartEmpty": "Your cart is empty",
+  "totalLabel": "Total: {total}",
+  "checkoutButton": "Go to Checkout →",
+
+  "myOrders": "My Orders",
+  "noOrdersYet": "You have no orders yet.",
+  "orderOn": "Order on {date}",
+  "storeLabel": "Store:",
+  "paymentLabel": "Payment: {method}",
+  "addressLabel": "Address: {address}",
+  "trackOrder": "Track Order",
+
+  "ongoing": "Ongoing",
+  "completed": "Completed",
+  "noOngoingOrders": "You don’t have any ongoing orders at this time.",
+  "noCompletedOrders": "You don’t have any completed orders at this time.",
+
+  "loginTitle": "Login",
+  "loginWithGoogle": "Sign in with Google",
+  "loginWithGitHub": "Sign in with GitHub",
+  "dontHaveAccount": "Don’t have an account? Register",
+
+  "loginHeader": "Login to your account",
+  "loginSubheader": "Please sign in to continue.",
+  "emailLabel": "Email",
+  "emailHint": "Enter your email address",
+  "passwordLabel": "Password",
+  "passwordHint": "Enter your password",
+  "loginButton": "Login",
+  "orDivider": "Or",
+  "signInWithGoogle": "Sign in with Google",
+  "signInWithGitHub": "Sign in with GitHub",
+  "noAccount": "Don’t have an account? ",
+  "register": "Register",
+
+  "registerTitle": "Register",
+  "registerButton": "Register",
+  "alreadyHaveAccount": "Already have an account? Login",
+
+  "registerHeader": "Create an account",
+  "registerSubheader": "Let's create your account.",
+  "fullNameLabel": "Full Name",
+  "fullNameHint": "Enter your full name",
+  "termsIntro": "By signing up you agree to our ",
+  "terms": "Terms",
+  "privacyPolicy": "Privacy Policy",
+  "cookieUse": "Cookie Use",
+  "signUpWithGoogle": "Sign Up with Google",
+
+  "login": "Log In",
+
+  "logoutConfirmTitle": "Logout?",
+  "logoutConfirmContent": "Are you sure you want to logout?",
+  "logoutYes": "Yes, Logout",
+  "logoutNo": "No, Cancel",
+
+  "myDetails": "My Details",
+  "addressBook": "Address Book",
+  "paymentMethods": "Payment Methods",
+  "notifications": "Notifications",
+  "faqs": "FAQs",
+  "helpCenter": "Help Center",
+  "logout": "Logout",
+  "anonymous": "Anonymous",
+  "account": "Account",
+  "map": "Map",
+
+
+  "checkoutTitle": "Checkout",
+  "addressHint": "Address",
+  "paymentCreditCard": "Credit Card",
+  "paymentPayPal": "PayPal",
+  "paymentCash": "Cash on Delivery",
+  "placeOrder": "Place Order",
+  "orderPlacedSnack": "Order placed!",
+
+  "selectSize": "Select Size",
+  "selectStore": "Select Store",
+  "quantity": "Quantity",
+
+  "cartEmpty": "Your cart is empty",
+  "sizeLabel": "Size",
+  "cartTotal": "Total: {amount}",
+  "checkout": "Checkout",
+
+  "deliveryAddress": "Delivery Address",
+  "change": "Change",
+  "paymentMethod": "Payment Method",
+  "card": "Card",
+  "cash": "Cash",
+  "applePay": " Pay",
+  "orderSummary": "Order Summary",
+  "subtotal": "Sub-total",
+  "vat": "VAT (%)",
+  "shippingFee": "Shipping fee",
+  "promoCodeHint": "Enter promo code",
+  "addPromoCode": "Add",
+  "placeOrderButton": "Place Order",
+
+  "emptyCompletedSubtitle": "You don’t have any completed orders at this time.",
+  "@emptyCompletedSubtitle": {
+    "description": "Подпись, когда нет завершённых заказов"
+  },
+
+  "emptyOngoingSubtitle": "You don’t have any ongoing orders at this time.",
+  "@emptyOngoingSubtitle": {
+    "description": "Подпись, когда нет активных заказов"
+  }
+}

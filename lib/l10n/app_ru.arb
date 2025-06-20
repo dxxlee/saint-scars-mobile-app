@@ -1,0 +1,167 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Saints & Scars",
+  "drawerHeader": "Fashion Hub",
+  "navHome": "Главная",
+  "navClothes": "Одежда",
+  "navCart": "Корзина",
+  "navOrders": "Заказы",
+  "navAccount": "Профиль",
+  "navWishlist": "Избранное",
+  "navMap": "Карта",
+  "navCheckout": "Оплата",
+  "navSettings": "Настройки",
+
+  "productDetailSelectSize":      "Выберите размер",
+  "productDetailSelectStore":     "Выберите магазин",
+  "productDetailQuantity":        "Количество",
+  "productDetailAddToCart":       "Добавить в корзину",
+  "productDetailAddedToCart":     "Добавлено в корзину",
+
+  "language": "Язык",
+  "languageEnglish": "English",
+  "languageRussian": "Русский",
+  "languageKazakh": "Қазақша",
+  "enabled": "Включено",
+  "disabled": "Отключено",
+  "lightTheme": "Светлая тема",
+  "accentColor": "Акцентный цвет",
+  "settings": "Настройки",
+
+
+  "homeCategories": "Категории",
+  "homeBestSellers": "Хиты продаж",
+  "homeReviews": "Отзывы",
+
+  "searchHint": "Поиск товаров...",
+  "sortBy": "Сортировать по:",
+  "sortNameAsc": "Имя ↑",
+  "sortNameDesc": "Имя ↓",
+  "sortPriceAsc": "Цена ↑",
+  "sortPriceDesc": "Цена ↓",
+  "noProductsFound": "Товары не найдены",
+
+  "errorPrefix": "Ошибка:",
+
+  "categoryAll": "Все",
+  "categoryMens": "Мужское",
+  "categoryWomens": "Женское",
+  "categoryShoes": "Обувь",
+  "categoryPerfumes": "Парфюм",
+
+  "add": "Добавить",
+  "addToCart": "В корзину",
+  "addedToCartSnack": "{name} добавлен в корзину",
+
+  "yourCartEmpty": "Ваша корзина пуста",
+  "totalLabel": "Итого: {total}",
+  "checkoutButton": "Перейти к Оплате →",
+
+  "myOrders": "Мои заказы",
+  "noOrdersYet": "У вас пока нет заказов.",
+  "orderOn": "Заказ от {date}",
+  "storeLabel": "Магазин:",
+  "paymentLabel": "Оплата: {method}",
+  "addressLabel": "Адрес: {address}",
+  "trackOrder": "Отследить",
+
+  "ongoing": "Текущие",
+  "completed": "Завершённые",
+  "noOngoingOrders": "У вас нет текущих заказов.",
+  "noCompletedOrders": "У вас нет завершённых заказов.",
+
+  "loginTitle": "Вход",
+  "loginWithGoogle": "Войти через Google",
+  "loginWithGitHub": "Войти через GitHub",
+  "dontHaveAccount": "Нет аккаунта? Регистрация",
+
+  "loginHeader": "Вход в аккаунт",
+  "loginSubheader": "Пожалуйста, войдите, чтобы продолжить.",
+  "emailLabel": "Электронная почта",
+  "emailHint": "Введите адрес электронной почты",
+  "passwordLabel": "Пароль",
+  "passwordHint": "Введите пароль",
+  "loginButton": "Войти",
+  "orDivider": "Или",
+  "signInWithGoogle": "Войти через Google",
+  "signInWithGitHub": "Войти через GitHub",
+  "noAccount": "Нет аккаунта? ",
+  "register": "Зарегистрироваться",
+
+  "registerTitle": "Регистрация",
+  "registerButton": "Зарегистрироваться",
+  "alreadyHaveAccount": "Уже есть аккаунт? Войти",
+
+  "registerHeader": "Создание аккаунта",
+  "registerSubheader": "Давайте создадим ваш аккаунт.",
+  "fullNameLabel": "Полное имя",
+  "fullNameHint": "Введите полное имя",
+  "termsIntro": "Регистрируясь, вы соглашаетесь с нашими ",
+  "terms": "Условиями использования",
+  "privacyPolicy": "Политикой конфиденциальности",
+  "cookieUse": "Использованием файлов cookie",
+  "signUpWithGoogle": "Зарегистрироваться через Google",
+
+  "logoutConfirmTitle": "Выход?",
+  "logoutConfirmContent": "Вы действительно хотите выйти?",
+  "logoutYes": "Да, выйти",
+  "logoutNo": "Нет, отмена",
+
+  "myDetails": "Мои данные",
+  "addressBook": "Адресная книга",
+  "paymentMethods": "Способы оплаты",
+  "notifications": "Уведомления",
+  "faqs": "Вопрос-ответ",
+  "helpCenter": "Центр помощи",
+  "logout": "Выйти",
+  "anonymous": "Аноним",
+  "account": "Аккаунт",
+  "map": "Карта",
+
+  "checkoutTitle": "Оформление заказа",
+  "addressHint": "Адрес",
+  "paymentCreditCard": "Кредитная карта",
+  "paymentPayPal": "PayPal",
+  "paymentCash": "Наличные при получении",
+  "placeOrder": "Оформить заказ",
+  "orderPlacedSnack": "Заказ оформлен!",
+
+  "selectSize": "Выберите размер",
+  "selectStore": "Выберите магазин",
+  "quantity": "Количество",
+
+
+  "cartEmpty": "Ваша корзина пуста",
+  "sizeLabel": "Размер",
+  "cartTotal": "Общая цена: {amount}",
+  "checkout": "Заказ",
+
+
+  "deliveryAddress": "Адрес доставки",
+  "change": "Изменить",
+
+  "paymentMethod": "Способ оплаты",
+  "card": "Карта",
+  "cash": "Наличные",
+  "applePay": " Pay",
+
+  "orderSummary": "Сводка заказа",
+  "subtotal": "Промежуточный итог",
+  "vat": "НДС (%)",
+  "shippingFee": "Стоимость доставки",
+
+  "promoCodeHint": "Введите промокод",
+  "addPromoCode": "Применить",
+
+  "placeOrderButton": "Оформить заказ",
+
+  "emptyCompletedSubtitle": "У вас пока нет завершённых заказов.",
+  "@emptyCompletedSubtitle": {
+    "description": "Подпись, когда нет завершённых заказов"
+  },
+
+  "emptyOngoingSubtitle": "У вас пока нет активных заказов.",
+  "@emptyOngoingSubtitle": {
+    "description": "Подпись, когда нет активных заказов"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "@@locale": "kk",
+  "appTitle": "Saints & Scars",
+  "drawerHeader": "Fashion Hub",
+  "navHome": "Басты",
+  "navClothes": "Киімдер",
+  "navCart": "Себет",
+  "navOrders": "Тапсырыстар",
+  "navAccount": "Профиль",
+  "navWishlist": "Ұнатқандар",
+  "navMap": "Карта",
+  "navCheckout": "Төлеу",
+  "navSettings": "Параметрлер",
+
+  "productDetailSelectSize":      "Өлшемді таңдаңыз",
+  "productDetailSelectStore":     "Дүкенді таңдаңыз",
+  "productDetailQuantity":        "Саны",
+  "productDetailAddToCart":       "Себетке қосу",
+  "productDetailAddedToCart":     "Себетке қосылды",
+
+  "language": "Тіл",
+  "languageEnglish": "English",
+  "languageRussian": "Русский",
+  "languageKazakh": "Қазақша",
+  "enabled": "Қосулы",
+  "disabled": "Өшірулі",
+  "lightTheme": "Жарық тема",
+  "accentColor": "Акцент түсі",
+  "settings": "Параметрлер",
+
+
+  "homeCategories": "Категориялар",
+  "homeBestSellers": "Сатылымға шыққан",
+  "homeReviews": "Пікірлер",
+
+  "searchHint": "Тауар іздеу...",
+  "sortBy": "Сұрыптау:",
+  "sortNameAsc": "Аты ↑",
+  "sortNameDesc": "Аты ↓",
+  "sortPriceAsc": "Баға ↑",
+  "sortPriceDesc": "Баға ↓",
+  "noProductsFound": "Тауар табылмады",
+
+  "errorPrefix": "Қате:",
+
+  "categoryAll": "Барлығы",
+  "categoryMens": "Ерлер",
+  "categoryWomens": "Әйелдер",
+  "categoryShoes": "Аяқ киім",
+  "categoryPerfumes": "Парфюм",
+
+  "add": "Қосу",
+  "addToCart": "Себетке қосу",
+  "addedToCartSnack": "{name} себетке қосылды",
+
+  "yourCartEmpty": "Себетіңіз бос",
+  "totalLabel": "Барлығы: {total}",
+  "checkoutButton": "Төлемге өту →",
+
+  "myOrders": "Тапсырыстарым",
+  "noOrdersYet": "Сізде тапсырыс жоқ.",
+  "orderOn": "Тапсырыс {date}",
+  "storeLabel": "Дүкен:",
+  "paymentLabel": "Төлем: {method}",
+  "addressLabel": "Мекенжай: {address}",
+  "trackOrder": "Қадағалау",
+
+  "ongoing": "Ағымдағы",
+  "completed": "Аяқталған",
+  "noOngoingOrders": "Ағымдағы тапсырысыңыз жоқ.",
+  "noCompletedOrders": "Аяқталған тапсырысыңыз жоқ.",
+
+  "loginTitle": "Кіру",
+  "loginWithGoogle": "Google арқылы кіру",
+  "loginWithGitHub": "GitHub арқылы кіру",
+  "dontHaveAccount": "Аккаунтыңыз жоқ па? Тіркелу",
+
+  "loginHeader": "Аккаунтыңызға кіріңіз",
+  "loginSubheader": "Жалғастыру үшін жүйеге кіріңіз.",
+  "emailLabel": "Электрондық пошта",
+  "emailHint": "Электрондық поштаңызды енгізіңіз",
+  "passwordLabel": "Құпиясөз",
+  "passwordHint": "Құпиясөзіңізді енгізіңіз",
+  "loginButton": "Кіру",
+  "orDivider": "Немесе",
+  "signInWithGoogle": "Google арқылы кіру",
+  "signInWithGitHub": "GitHub арқылы кіру",
+  "noAccount": "Аккаунтыңыз жоқ па? ",
+  "register": "Тіркелу",
+
+  "registerTitle": "Тіркелу",
+  "registerButton": "Тіркелу",
+  "alreadyHaveAccount": "Аккаунты бар ма? Кіру",
+
+  "registerHeader": "Аккаунт құру",
+  "registerSubheader": "Аккаунтыңызды жасайық.",
+  "fullNameLabel": "Толық аты-жөні",
+  "fullNameHint": "Толық аты-жөніңізді енгізіңіз",
+  "termsIntro": "Тіркелу арқылы сіз келесілермен келісесіз: ",
+  "terms": "Қызмет көрсету шарттары",
+  "privacyPolicy": "Құпиялық саясаты",
+  "cookieUse": "Cookie файлдарын пайдалану",
+  "signUpWithGoogle": "Google арқылы тіркелу",
+
+  "logoutConfirmTitle": "Шығу?",
+  "logoutConfirmContent": "Шығуды растайсыз ба?",
+  "logoutYes": "Иә, шығу",
+  "logoutNo": "Жоқ, болдырмау",
+
+  "myDetails": "Менің деректерім",
+  "addressBook": "Мекенжайлар",
+  "paymentMethods": "Төлем тәсілдері",
+  "notifications": "Хабарламалар",
+  "faqs": "Жиі қойылатын сұрақтар",
+  "helpCenter": "Көмек орталығы",
+  "logout": "Шығу",
+  "anonymous": "Аноним",
+  "account": "Жеке парақша",
+  "map": "Карта",
+
+  "checkoutTitle": "Тапсырысты рәсімдеу",
+  "addressHint": "Мекенжай",
+  "paymentCreditCard": "Несие картасы",
+  "paymentPayPal": "PayPal",
+  "paymentCash": "Қолма-қол",
+  "placeOrder": "Тапсырыс беру",
+  "orderPlacedSnack": "Тапсырыс жіберілді!",
+
+  "selectSize": "Өлшем таңдаңыз",
+  "selectStore": "Дүкен таңдаңыз",
+  "quantity": "Саны",
+
+  "cartEmpty": "Сіздің арбаңыз бос",
+  "sizeLabel": "Өлшем",
+  "cartTotal": "Барлығы: {amount}",
+  "checkout": "Тапсырыс",
+
+  "deliveryAddress": "Жеткізу мекенжайы",
+  "change": "Өзгерту",
+
+  "paymentMethod": "Төлем әдісі",
+  "card": "Карта",
+  "cash": "Қолма-қол",
+  "applePay": " Pay",
+
+  "orderSummary": "Тапсырыс мәліметтері",
+  "subtotal": "Жиынтық",
+  "vat": "ҚҚС (%)",
+  "shippingFee": "Жеткізу ақысы",
+
+  "promoCodeHint": "Промо-кодты енгізіңіз",
+  "addPromoCode": "Қолдану",
+
+  "placeOrderButton": "Тапсырыс беру",
+
+  "emptyCompletedSubtitle": "Қазіргі уақытта аяқталған тапсырысыңыз жоқ.",
+  "@emptyCompletedSubtitle": {
+    "description": "Аяқталған тапсырыс жоқ кезде подпись"
+  },
+
+  "emptyOngoingSubtitle": "Қазіргі уақытта белсенді тапсырысыңыз жоқ.",
+  "@emptyOngoingSubtitle": {
+    "description": "Белсенді тапсырыс жоқ кезде подпись"
+  }
+}
